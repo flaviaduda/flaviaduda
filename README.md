@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flaviaduda
 - 👀 I’m interested in aprender novas linguagens...
-- 🌱 I’m currently learning ...estou aprendendo a programar recentemente a linhuagem de javascript e scrath
+- 🌱 I’m currently learning ...estou aprendendo a programar recentemente a linguagem de javascript e scrath
 - 💞️ 
 
 <!---
